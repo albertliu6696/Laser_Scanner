@@ -1,3 +1,5 @@
+//Code Taken from http://hertaville.com/introduction-to-accessing-the-raspberry-pis-gpio-in-c.html
+
 #ifndef GPIO_CLASS_H
 #define GPIO_CLASS_H
 
